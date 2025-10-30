@@ -1,3 +1,9 @@
+<div align="center">
+
+![Logotipo do PressioTrack](https://github.com/PressioTrack/.github/blob/main/images/pressio-titulo.png)
+
+</div>
+
 # PressioTrack
 Aplicação dedicada ao monitoramento da pressão arterial em tempo real com relatórios.
 
